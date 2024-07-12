@@ -1,0 +1,10 @@
+Link Attribute: Weight 	= 1 (friends), 
+			= 2 (co-offend together)
+              		= 3 (co-offend together, serious crime)
+              		= 4 (co-offend together, serious crime, kin)
+
+Node Attributes: Age, Birthplace (1 = West Africa, 2 = Caribbean, 3 = UK, 4 = East African)
+Residence (1 = resident of housing estate, 0 = non-resident)
+Arrests (number of arrests), Convictions (number of convictions)
+Prison (1 = served time in prison, 0 = has not served time)
+Ranking (value of 1 to 5 - assigned by police where 1 is the highest ranking)
